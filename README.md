@@ -71,7 +71,7 @@ flutter pub get
 
 - **Model:** Convolutional Neural Network
 - **Frameworks:** TensorFlow, TensorFlow Lite
-- **Dataset:** Thousands of labeled leaf images ([reference](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4921827))[web:95].
+- **Dataset:** Thousands of labeled leaf images
 - **Inference:** Works offline for real-time predictions.
 
 
